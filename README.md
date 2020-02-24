@@ -1,5 +1,7 @@
 # WebSockets Library for V
 
+**This is still work-in-progress!**
+
 The websockets library itself is ready and working (passes all tests of AutoBahn). What's left:
 
 1. It needs to be updated and made to run with latest V.
