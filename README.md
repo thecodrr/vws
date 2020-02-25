@@ -15,7 +15,7 @@ The websockets library itself is ready and working (passes all tests of AutoBahn
 
 1. SSL (either make the VSChannel work or OpenSSL)
 
-General code cleanup etc. is also needed (but the codebase is generally clean).
+General code cleanup etc. is also needed.
 
 ## Contributors
 
@@ -25,4 +25,4 @@ If anyone has any questions regarding design etc. please open an Issue or contac
 
 ## Future Planning:
 
-This is supposed to be merged into V stdlib but it's not ready for that yet. As soon as it is, I will open a PR and merge it.
+This is supposed to be merged into V stdlib but it's not ready for that yet. As soon as it is, I will open a PR.
